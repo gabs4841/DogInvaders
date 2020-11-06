@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Menu.unity
+    guid: c39ffabcd7091db42bd5319747d1c302
+  - enabled: 1
+    path: Assets/Scene/Gameplay.unity
+    guid: 862feeb63bf5a204d95bbae310de96a7
+  - enabled: 1
+    path: "Assets/Scene/TelaVit\xF3ria.unity"
+    guid: 20c0cc3451fac2e47ade54297aac9a89
+  - enabled: 1
+    path: Assets/Scene/TelaDerrota.unity
+    guid: 4dcc724346970784b8ca49507c8aeafa

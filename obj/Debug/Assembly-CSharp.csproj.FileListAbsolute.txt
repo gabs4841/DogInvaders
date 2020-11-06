@@ -1,0 +1,2 @@
+C:\Users\32044\Desktop\UltraSheepInSpace\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+U:\UltraSheepInSpace\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
