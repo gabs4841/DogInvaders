@@ -1,4 +1,4 @@
-![image](https://github.com/gabs4841/DogInvaders/assets/74026100/90808057-be97-4550-a31f-e03ec859ae90)# DogInvaders
+# DogInvaders
 
 Jogo space shooter mobile desenvolvido no unity onde você controla um gato que tem a missão de proteger a terra da invasão dos cachorros, conta com sistema de dificuldade, gasolina, pontuação, chefe e tiros especiais.
 
