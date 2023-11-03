@@ -4,7 +4,8 @@ Jogo space shooter mobile desenvolvido no unity onde você controla um gato que 
 
 # Como Jogar?
 
-Vá na pasta "Executavel" e em "<> Code" e "Download ZIP", Após extrarir o conteudo, basta instalar o arquivo "DogInvaders.apk" em um celular ou emulador android.
+Faça o download do arquivo "DogInvaders.apk" <a href="https://drive.google.com/file/d/1CUH1Kszb2ew0aAv7v3kjdLVcT2988B49/view?usp=sharing">aqui</a> e após isso instale o mesmo em um celular ou emulador android.
+
 
 # Imagens do Jogo:
 ![image](https://github.com/gabs4841/DogInvaders/assets/74026100/5ec8f6c4-8b8e-44fd-a818-b385ae539a12)
