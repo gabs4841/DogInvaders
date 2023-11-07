@@ -12,4 +12,5 @@ Faça o <a href="https://drive.google.com/file/d/1CUH1Kszb2ew0aAv7v3kjdLVcT2988B
 
 # Créditos:
 **Programação:** [Gabriel](https://github.com/gabs4841)
+
 **Arte:** [Matheus](https://instagram.com/mattfnv?igshid=NzZlODBkYWE4Ng==)
